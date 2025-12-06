@@ -1,0 +1,15 @@
+# Core Machine Learning Libraries
+numpy>=1.21.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Adversarial Attack Libraries
+adversarial-robustness-toolbox>=1.15.0
